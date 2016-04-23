@@ -1,7 +1,7 @@
 from distutils.core import setup
 
-setup(name='elkclient',
+setup(name='escli',
       version='0.0.1',
-      packages=['elkclient'],
-      scripts=['elkclient/elkclient.py'],
+      packages=['escli'],
+      scripts=['escli/escli.py'],
      )
